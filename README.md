@@ -44,5 +44,6 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-
+## Env variables
+# The values of example.env are removed due to confidentiality and security reasons
 
